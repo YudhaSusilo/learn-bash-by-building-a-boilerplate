@@ -251,3 +251,5 @@ find toms-website/
 find website-boilerplate/
 clear
 echo goodbye terminal
+__vsc_prompt_cmd_original
+exit
