@@ -222,3 +222,4 @@ find
 rm fonts
 rm --help
 rm -r fonts/
+ls --color=auto
