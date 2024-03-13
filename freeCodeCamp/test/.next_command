@@ -191,3 +191,5 @@ find -name client/assets/images/
 find -name c/assets/images/
 find -name images
 mv header.png client/assets/images/
+find pname header.png
+find -name header.png
