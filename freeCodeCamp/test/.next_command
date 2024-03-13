@@ -120,3 +120,4 @@ ls --color=auto
 mkdir images
 ,s
 ls --color=auto
+cp background.jpg images/
