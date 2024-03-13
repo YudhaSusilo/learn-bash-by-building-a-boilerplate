@@ -209,3 +209,5 @@ find
 mv CodeRoad.svg client/assets/icons/
 mv freeCodeCamp.svg client/assets/icons/
 find
+mkdrir client/assets/fonts
+mkdir client/assets/fonts
