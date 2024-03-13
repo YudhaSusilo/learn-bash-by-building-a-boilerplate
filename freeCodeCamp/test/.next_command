@@ -72,3 +72,5 @@ __vsc_prompt_cmd_original
 ls --color=auto
 more LICENSE-MIT
 clear
+pwd
+ls --color=auto
