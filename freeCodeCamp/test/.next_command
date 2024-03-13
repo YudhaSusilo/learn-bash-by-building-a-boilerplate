@@ -228,3 +228,5 @@ touch server.js
 touch README.md
 ls --color=auto
 echo Yay!
+__vsc_prompt_cmd_original
+echo I finished the boilerplate!
