@@ -144,3 +144,4 @@ mv roboto.woof roboto.font
 mv roboto.font roboto.woof
 mv roboto.woof roboto.font
 mv roboto.font roboto.woff
+ls --color=auto
